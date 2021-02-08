@@ -1,0 +1,13 @@
+
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - dask
+  - cdsapi
+  - matplotlib
+  - cfgrib
+  - numpy
+  - pandas
+  - scipy
