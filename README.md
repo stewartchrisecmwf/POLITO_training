@@ -1,5 +1,5 @@
 <img src='./img/logoline_12000.png' align='center' width='100%'></img>
-# Jupyter notebook tutorial on C3S data access and processing
+# Jupyter notebook tutorial on C3S data access & analysis
 <img src='./img/climate_extremes.png' align='center' width='100%'></img>
 
 Jupyter notebook tutorial on C3S data access and processing for POLITO Specialising Master "Climate Change: Adaptation and Mitigation Solutions"
